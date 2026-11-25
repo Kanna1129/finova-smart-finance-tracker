@@ -1,0 +1,13 @@
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+data/users.csv
+data/transactions.csv
+data/budgets.csv
+data/ai_queries.csv
